@@ -6,11 +6,9 @@ published: true
 ---
 
 
-Some information about you!
+Hi there ! My name is Jaime. I'm a computer engineer passionate about android development and software engineering.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my blog. I write about android, entrepreneurship and random things that run into my mind :D  
 
 ### Contact me
 

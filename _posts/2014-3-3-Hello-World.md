@@ -8,13 +8,8 @@ Next you can update your site name, avatar and other options using the _config.y
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 package org.organisation.project;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-/**
- * This application...
- */
 public class Application {
 	// Logger instance
 	private static Logger logger = LoggerFactory.getLogger(Project.class);
@@ -30,7 +25,6 @@ public class Application {
 		char c = 'x';
 		int i = 100;
 	}
-
 }
 
 

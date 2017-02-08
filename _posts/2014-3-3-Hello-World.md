@@ -7,4 +7,31 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+package org.organisation.project;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+/**
+ * This application...
+ */
+public class Application {
+	// Logger instance
+	private static Logger logger = LoggerFactory.getLogger(Project.class);
+
+	/**
+	 * @param args - the argument to startup the applicaiton
+	 */
+	public static void main(String[] args) {
+		/*
+		 * Multi line comment.
+		 */
+		System.out.println("Some text");
+		char c = 'x';
+		int i = 100;
+	}
+
+}
+
+
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
